@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+D:\C++\glfw-3.3.8.bin.WIN32\lib-vc2022\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\C++\other\game life\x64\Debug\game life.exe : fatal error LNK1120: 7 unresolved externals
